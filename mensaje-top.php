@@ -1,7 +1,7 @@
 <?php 
 
 /*
-Plugin Name: ShowTopMessage
+Plugin Name: Mensaje Top
 Description: Plugin para mostrar un mensaje en la parte superior
 Version:     1
 Author:      Jhon Marreros
